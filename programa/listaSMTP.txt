@@ -1,0 +1,3 @@
+smtp.gmail.com,gmail.com,google.com
+smtp.live.com,hotmail.com
+smtp.mail.yahoo.com.br,yahoo.com.br
